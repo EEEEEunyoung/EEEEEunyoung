@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=shark&animation=blinking&color=mint&width=1000&height=140&section=header&text=EunyoungKo%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=shark&animation=blinking&color=aaeec2&width=1000&height=140&section=header&text=EunyoungKo%20&fontSize=60&fontColor=2f5344" />
 
 <!--
 **EEEEEunyoung/EEEEEunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
    </div>
    
   <footer>
-   <img src = "https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer">
+   <img src = "https://capsule-render.vercel.app/api?type=waving&color=aaeec2&height=150&section=footer">
   </footer>
