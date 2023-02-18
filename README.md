@@ -58,5 +58,5 @@ Here are some ideas to get you started:
    </div>
    
   <footer>
-   <img src = "https://capsule-render.vercel.app/api?type=waving&color=aaeec2&height=150&section=footer">
+   <img src = "https://capsule-render.vercel.app/api?type=waving&color=75d495&height=150&section=footer">
   </footer>
