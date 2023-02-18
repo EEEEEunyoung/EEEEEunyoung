@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=shark&animation=blinking&color=auto&width=1000&height=140&section=header&text=EunyoungKo%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=shark&animation=blinking&color=mint&width=1000&height=140&section=header&text=EunyoungKo%20&fontSize=60" />
 
 <!--
 **EEEEEunyoung/EEEEEunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
